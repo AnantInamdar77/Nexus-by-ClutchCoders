@@ -44,7 +44,8 @@ The **Login Page** offers a simple and secure way for users to access their Nexu
 ---
 
 ### 2. **Landing Page**
-![Home Page](images nexus/landingpage.png)
+![Home Page]()
+<img SRC="https://Gaganhalmath/Nexus-by-ClutchCoders/images nexus/about.png">
 
 **Description**:  
 Welcome to Nexus – Your Freelancer Hub!
