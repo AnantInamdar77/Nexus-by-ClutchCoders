@@ -1,6 +1,4 @@
 
-
-```
 # Nexus by ClutchCoders
 
 **Nexus** is a modern **community forum** designed for freelancers to connect, collaborate, and communicate seamlessly. Built with a robust stack including **React**, **TypeScript**, **Node.js**, **Socket.IO**, and **MongoDB**, Nexus enables real-time discussions, private messaging, and an intuitive user interface. The platform supports real-time updates, ensuring users stay connected and engaged in meaningful conversations.
