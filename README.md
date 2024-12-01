@@ -68,7 +68,7 @@ Warm Welcome: A friendly introduction to the Nexus community, inviting freelance
 
 **Description**:  
 ###3. **Home Page**  
-![Home Page](./path-to-images/home-page.jpg)  
+![Home Page( ..images nexus/about.png ) 
 
 **Discover, Connect, and Thrive!**  
 
