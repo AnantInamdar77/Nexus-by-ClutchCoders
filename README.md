@@ -44,7 +44,7 @@ The **Login Page** offers a simple and secure way for users to access their Nexu
 ---
 
 ### 2. **Landing Page**
-![Home Page](images nexus/WhatsApp Image 2024-11-30 at 7.58.00 PM.jpeg)
+![Home Page](images nexus/landingpage.png)
 
 **Description**:  
 Welcome to Nexus – Your Freelancer Hub!
